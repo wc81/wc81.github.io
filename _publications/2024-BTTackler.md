@@ -4,7 +4,7 @@ collection: publications
 category: 工业大数据方向
 permalink: /publication/2024-BTTackler
 excerpt: ''
-date: 2024
+date: 2024-8-25
 venue: 'SIGKDD'
 paperurl: 'http://wc81.github.io/files/BTTackler.pdf'
 bibtexurl: 'http://wc81.github.io/files/BTTackler.bib'
