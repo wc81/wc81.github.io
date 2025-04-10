@@ -1,6 +1,7 @@
 ---
 title: "BTTackler: A Diagnosis-based Framework for Efficient Deep Learning Hyperparameter Optimization"
 collection: publications
+category: bigdata
 permalink: /publication/2024-BTTackler
 excerpt: ''
 date: 2024-8-25
