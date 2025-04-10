@@ -9,13 +9,13 @@
 
 main:
   - title: "论文"
-    url: /teaching/
+    url: /publications/ 
 
   - title: "专利"
     url: /talks/    
 
   - title: "专著"
-    url: /publications/    
+    url: /teaching/
     
   - title: "奖项"
     url: /portfolio/
