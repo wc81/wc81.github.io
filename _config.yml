@@ -81,8 +81,6 @@ publication_category:
     title: '数据库方向'
   bigdata:
     title: '工业大数据方向'
-
-patent_category:
   authorized:
     title: '已授权专利'
   public:
