@@ -3,12 +3,12 @@ title: "Time Series Representation for Visualization in Apache IoTDB"
 collection: publications
 category: database
 permalink: /publication/2024-sigmod-1
-excerpt: ''
 date: 2024-6-9
 venue: 'SIGMOD'
 paperurl: 'http://wc81.github.io/files/Time Series Representation for Visualization in Apache IoTDB.pdf'
-citation: 'Lei Ru, Xiangdong Huang, Shaoxu Song, Yuyuan Kang, Chen Wang, Jianmin Wang. Time Series Representation for Visualization in Apache IoTDB, SIGMOD 2024.'
 ---
+
+引用格式：Lei Ru, Xiangdong Huang, Shaoxu Song, Yuyuan Kang, Chen Wang, Jianmin Wang. Time Series Representation for Visualization in Apache IoTDB, SIGMOD 2024.
 
 论文摘要
 ======
