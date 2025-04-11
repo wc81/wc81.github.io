@@ -12,7 +12,7 @@ main:
     url: /publications/ 
 
   - title: "专利"
-    url: /talks/    
+    url: /patent/
 
   - title: "专著"
     url: /teaching/
@@ -22,12 +22,3 @@ main:
         
   - title: "社会任职"
     url: /year-archive/
-    
-  #- title: "CV"
-  #  url: /cv/
-    
-  # - title: "CV"
-  #   url: /cv-json/
-    
-  #- title: "Guide"
-  #  url: /markdown/
