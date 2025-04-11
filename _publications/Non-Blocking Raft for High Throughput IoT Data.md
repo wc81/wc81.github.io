@@ -1,14 +1,13 @@
 ---
-title: "Time Series Representation for Visualization in Apache IoTDB"
+title: "Non-Blocking Raft for High Throughput IoT Data"
 collection: publications
 category: database
-permalink: /publications/2024-sigmod-1
-date: 2024-3-26
-venue: 'SIGMOD'
-paperurl: 'http://wc81.github.io/files/Time Series Representation for Visualization in Apache IoTDB.pdf'
+permalink: /publications/Non-Blocking Raft for High Throughput IoT Data
+date: 2023-7-26
+venue: 'ICDE'
 ---
 
-[论文地址](https://dl.acm.org/doi/abs/10.1145/3639290)
+[论文地址](https://ieeexplore.ieee.org/abstract/document/10184820)
 
 论文摘要
 ======

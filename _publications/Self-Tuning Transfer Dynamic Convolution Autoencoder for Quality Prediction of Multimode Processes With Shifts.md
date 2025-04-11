@@ -2,10 +2,9 @@
 title: "Self-Tuning Transfer Dynamic Convolution Autoencoder for Quality Prediction of Multimode Processes With Shifts"
 collection: publications
 category: bigdata
-permalink: /publications/2024-Chao_Y-1
+permalink: /publications/Self-Tuning Transfer Dynamic Convolution Autoencoder for Quality Prediction of Multimode Processes With Shifts
 date: 2024-5-21
 venue: 'TII'
-paperurl: 'http://wc81.github.io/files/Self-Tuning Transfer Dynamic Convolution Autoencoder for Quality Prediction of Multimode Processes With Shifts.pdf'
 ---
 
 [论文地址](https://ieeexplore.ieee.org/abstract/document/10543184)
