@@ -5,7 +5,7 @@ category: bigdata
 permalink: /publication/2024-BTTackler
 date: 2024-8-25
 venue: 'SIGKDD'
-paperurl: 'http://wc81.github.io/files/BTTackler.pdf'
+paperurl: 'http://wc81.github.io/files/BTTackler A Diagnosis-based Framework for Efficient Deep Learning Hyperparameter Optimization.pdf'
 ---
 
 引用格式：Zhongyi Pei, Zhiyao Cen, Yipeng Huang, Chen Wang, Lin Liu, Philip Yu, Mingsheng Long, Jianmin Wang. BTTackler: A Diagnosis-based Framework for Efficient Deep Learning Hyperparameter Optimization. SIGKDD 2024.
