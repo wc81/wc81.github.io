@@ -2,7 +2,7 @@
 title: "Time Series Representation for Visualization in Apache IoTDB"
 collection: publications
 category: database
-permalink: /publication/2024-sigmod-1
+permalink: /publications/2024-sigmod-1
 date: 2024-3-26
 venue: 'SIGMOD'
 paperurl: 'http://wc81.github.io/files/Time Series Representation for Visualization in Apache IoTDB.pdf'
