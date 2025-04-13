@@ -7,7 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-### 职务
 * 国家工业互联网产业发展联盟（AII）副秘书长
 * 北京工业互联网技术创新与产业发展联盟秘书长
 * 中国计算 机学会高级会员
