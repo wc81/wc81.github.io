@@ -1,5 +1,5 @@
 ---
-permalink: /awards/
+permalink: /others/
 title: "其他"
 author_profile: true
 ---
