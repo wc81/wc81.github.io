@@ -25,7 +25,7 @@ author:
   avatar           : "wang-chen.jpg"
   name             : "王晨"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : # "Short biography for the left-hand sidebar"
   location         : "Beijing, China"
   employer         : "Tsinghua University"
   uri              : # URL
