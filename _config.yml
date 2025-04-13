@@ -26,8 +26,8 @@ author:
   name             : "王晨"
   pronouns         : # example: "she/her"  
   bio              : # "Short biography for the left-hand sidebar"
-  location         : "Beijing, China"
-  employer         : "Tsinghua University"
+  location         : "北京"
+  employer         : "清华大学"
   uri              : # URL
   email            : "wang_chen@tsinghua.edu.cn" 
 
