@@ -9,7 +9,7 @@
 
 main:
   - title: "论文"
-    url: /paper/ 
+    url: /paper/
 
   - title: "专利"
     url: /patent/
@@ -18,7 +18,7 @@ main:
     url: /book&standard/
     
   - title: "奖项"
-    url: /portfolio/
+    url: /awards/
         
   - title: "社会任职"
     url: /social-service/
