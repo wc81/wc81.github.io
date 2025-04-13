@@ -9,10 +9,10 @@
 
 main:
   - title: "论文"
-    url: /publications/ 
+    url: /paper/
 
   - title: "专利"
-    url: /talks/
+    url: /patent/
 
   - title: "专著"
     url: /book&standard/
