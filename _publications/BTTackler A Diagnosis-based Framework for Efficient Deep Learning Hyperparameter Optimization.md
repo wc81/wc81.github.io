@@ -3,11 +3,11 @@ title: "BTTackler: A Diagnosis-based Framework for Efficient Deep Learning Hyper
 collection: publications
 category: bigdata
 permalink: /publications/BTTackler A Diagnosis-based Framework for Efficient Deep Learning Hyperparameter Optimization
+excerpt: '[论文地址](https://dl.acm.org/doi/abs/10.1145/3637528.3671933)'
 date: 2024-8-24
 venue: 'SIGKDD'
 ---
 
-[论文地址](https://dl.acm.org/doi/abs/10.1145/3637528.3671933)
 
 论文摘要
 ======
