@@ -65,3 +65,7 @@ author_profile: true
 58. 回叫欺诈检测方法和装置，中国，CN101854613A，已发布发明专利
 59. 多租户场景中应用数据库分区的方法和装置，中国，CN101639835，已发布发明专利
 
+### 英文授权专利
+1. US11101818B2 Method and Device for Storing Time Series Data with Adaptive Length Encoding
+2. US11467754B2 Capacity Expansion Method and Capacity Expansion System Based on Dual-Level List Structure
+3. US11704328B2 Columnar Storage and Query Method and System for Time Series Data

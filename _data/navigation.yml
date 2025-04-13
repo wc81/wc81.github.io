@@ -22,3 +22,6 @@ main:
         
   - title: "社会任职"
     url: /social-service/
+
+  - title: "其他"
+      url: /others/
