@@ -15,8 +15,11 @@ main:
     url: /patent/
 
   - title: "专著"
-    url: /book&standard/
-    
+    url: /book/
+
+  - title: "标准"
+    url: /standard/
+
   - title: "奖项"
     url: /awards/
         

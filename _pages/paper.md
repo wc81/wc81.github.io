@@ -5,7 +5,6 @@ author_profile: true
 ---
 
 
-
 1. Rongzhao Chen, Xiangpeng Hu, Xiangdong Huang, Chen Wang, Shaoxu Song, and Jianmin Wang. Migration-Free Elastic Storage of Time Series in Apache IoTDB. Proceedings of the VLDB Endowment (PVLDB). 2025.
 2. Comet: Accelerating Private Inference for Large Language Model by Predicting Activation Sparsity
 3. Xu Zhang, Peng Wang, Chen Wang, Zhe Xu, Xiaohua Nie, and Wei Wang. Global Feature Enhancing and Fusion Framework for Strain Gauge Status Recognition. In Companion Proceedings of the ACM Web Conference (WWW Companion). 2025.
@@ -51,7 +50,7 @@ author_profile: true
 43. Zhiyu Liu, Chen Wang, Qiong Zou, Huayong Wang. Clustering Coefficient Queries on Massive Dynamic Social Networks. International Conference on Web Age Information Management (WAIM). 2010.
 44. Chen Wang, Yibo Zhang, Xiaoyan Chen, Zhiyu Liu, Lei Shi, Guang Chen, Fenghua Qiu, Chun Ying, Wei Lu. A behavior-based SMS antispam system. IBM Journal of Research and Development. 2010.
 45. Chen Wang, Qiming Tian, Xiaoyan Chen, Chun Ying. Service Differentiation for Business Process by Value Based Service Scheduling. IEEE International Conference on Web Services (ICWS). 2008.
-46. Yi Ge, Chen Wang, Xiaowei Shen, Honesty Young. A database scale-out solution for emerging write-intensive commercial workloads. ACM SIGOPS Operating Systems Review (SIGOPS).2008.
+46. Yi Ge, Chen Wang, Xiaowei Shen, Honesty Young. A database scale-out solution for emerging write-intensive commercial workloads. ACM SIGOPS Operating Systems Review (SIGOPS). 2008.
 47. Chen Wang, Yan Qiu Chen: Improving Nearest Neighbor Classification with Simulated Gravitational Collapse. International Conference on Natural Computation. 2005.
 
 
