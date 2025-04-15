@@ -25,7 +25,7 @@ author_profile: true
 18. Yuanhui Qiu, Chenguang Fang, Shaoxu Song, Xiangdong Huang, **Chen Wang**, Jianmin Wang. TsQuality: Measuring Time Series Data Quality in Apache IoTDB. VLDB. 2023.
 19. **Chen Wang**, Jialin Qiao, Xiangdong Huang, Shaoxu Song, Haonan Hou, Tian Jiang, Lei Rui, Jianmin Wang, Jiaguang Sun. Apache IoTDB: A Time Series Database for IoT Applications. SIGMOD. 2023.
 20. Chenguang Fang, Shaoxu Song, Haoquan Guan, Xiangdong Huang, **Chen Wang**, Jianmin Wang. Grouping Time Series for Efficient Columnar Storage. SIGMOD. 2023.
-21. 丁小欧,李映泽,**王晨**,王宏志,李昊轩. 兼顾行列的时序数据质量规则发现技术研究. 软件学报. 2023.
+21. 丁小欧, 李映泽, **王晨**, 王宏志, 李昊轩. 兼顾行列的时序数据质量规则发现技术研究. 软件学报. 2023.
 22. Bin Guo, Jiaqi Liu, Sicong Liu, Jiayao Wang, Mengyuan Li, **Chen Wang**, Zhiwen Yu. CrowdIM: Crowd-Inspired Intelligent Manufacturing Space Design. IEEE Internet of Things Journal (IOT). 2022
 23. Keke Huang, Zui Tao, **Chen Wang**, Tianxu Guo, Chunhua Yang, Weihua Gui. Cloud-Edge Collaborative Method for Industrial Process Monitoring Based on Error-Triggered Dictionary Learning. IEEE Transactions on Industrial Informatics (TII). 2022.
 24. Zhongyi Pei, Lin Liu, **Chen Wang**, Jianmin Wang: Requirements Engineering for Machine Learning: A Review and Reflection. IEEE 30th International Requirements Engineering Conference Workshops (REW). 2022.
