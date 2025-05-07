@@ -11,23 +11,12 @@ layout: compress
     {% include head/custom.html %}
   </head>
 
-  <button id="langToggle" onclick="toggleLanguage()" style="position:fixed;top:20px;right:20px;">
-    {{ site.data.lang[page.lang].language_btn }}
-  </button>
-
   <body>
 
     {% include browser-upgrade.html %}
     {% include masthead.html %}
 
-    <header class="header">
-      <h1>{{ site.data.lang[page.lang].welcome }}</h1>
-    </header>
-    
-    <nav>
-      <a href="#about">{{ site.data.lang[page.lang].about }}</a>
-      <a href="#projects">{{ site.data.lang[page.lang].projects }}</a>
-    </nav>
+    {{ content }}
 
     <div class="page__footer">
       <footer>
