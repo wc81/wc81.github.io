@@ -41,3 +41,21 @@
     "vendor/font-awesome/brands",
     "vendor/magnific-popup/magnific-popup"
 ;
+
+#langToggle {
+  position: fixed;
+  top: 1rem;
+  right: 1.5rem;
+  padding: 0.3rem 0.8rem;
+  border-radius: 20px;
+  background: rgba(255,255,255,0.9);
+  border: 1px solid #eee;
+  cursor: pointer;
+  transition: all 0.3s;
+  z-index: 999;
+
+  &:hover {
+    background: #fff;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  }
+}

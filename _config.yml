@@ -243,6 +243,7 @@ defaults:
       comments: true
       share: true
       related: true
+      lang: en
   # _pages
   - scope:
       path: ""

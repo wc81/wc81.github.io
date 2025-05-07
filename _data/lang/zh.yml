@@ -1,0 +1,8 @@
+# _data/lang/zh.yml
+welcome: "欢迎访问我的主页"
+about: "关于我"
+projects: "项目展示"
+contact: "联系我"
+# _data/lang/zh.yml
+about_content: "我是一名热衷于...的开发者"
+language_btn: "EN/中文"

@@ -16,6 +16,23 @@ $(document).ready(function () {
   }
   setTheme();
 
+  function toggleLanguage() {
+    const currentPath = window.location.pathname;
+    const newLang = currentPath.includes('/zh/') ? 'en' : 'zh';
+    
+    // 保留锚点定位功能
+    const hash = window.location.hash;
+    window.location.href = `/${newLang}/${hash}`;
+  }
+  
+  // 自动重定向（可选）
+  document.addEventListener('DOMContentLoaded', () => {
+    if (!window.location.pathname.includes('/zh/') && !window.location.pathname.includes('/en/')) {
+      const browserLang = navigator.language.startsWith('zh') ? 'zh' : 'en';
+      window.location.href = `/${browserLang}/`;
+    }
+  });
+
   // Toggle the theme
   var toggleTheme = function () {
     const current_theme = $("html").attr("data-theme");
