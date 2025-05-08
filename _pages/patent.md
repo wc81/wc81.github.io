@@ -1,6 +1,7 @@
 ---
 permalink: /patent/
 title: "专利"
+i18n_key: patent_title
 lang: zh
 author_profile: true
 ---

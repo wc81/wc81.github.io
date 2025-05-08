@@ -1,6 +1,7 @@
 ---
-permalink: /about/
+permalink: /
 title: "个人简介"
+i18n_key: about_title
 lang: zh
 author_profile: true
 redirect_from: 

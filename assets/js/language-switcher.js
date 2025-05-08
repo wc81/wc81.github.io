@@ -4,6 +4,24 @@ document.addEventListener('DOMContentLoaded', function() {
   
     // 初始化页面语言
     function setLanguage(lang) {
+      // 更新所有带 data-i18n 属性的元素（包括页面标题）
+      document.querySelectorAll('[data-i18n]').forEach(el => {
+        const key = el.getAttribute('data-i18n');
+        if (siteData[lang][key]) {
+          el.textContent = siteData[lang][key];
+        }
+      });
+      // 更新页面内容中的动态文本
+      document.querySelectorAll('[data-i18n]').forEach(el => {
+        const key = el.getAttribute('data-i18n');
+        el.textContent = siteData[lang][key];  // 自动更新标题
+      });
+      // 更新浏览器标签页标题
+      const pageTitle = document.querySelector('title[data-i18n]');
+      if (pageTitle) {
+        const titleKey = pageTitle.getAttribute('data-i18n');
+        document.title = siteData[lang][titleKey];
+      }
       // 切换文本内容
       document.querySelectorAll('[data-i18n]').forEach(el => {
         const key = el.getAttribute('data-i18n');

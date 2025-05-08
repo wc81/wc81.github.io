@@ -1,6 +1,7 @@
 ---
 permalink: /awards/
 title: "奖项"
+i18n_key: awards_title
 lang: zh
 author_profile: true
 ---
