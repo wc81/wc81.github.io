@@ -34,11 +34,4 @@ layout: compress
   </body>
 </html>
 
-<script>
-  // 将 Jekyll 的多语言数据暴露给 JavaScript
-  window.siteData = {
-    en: {{ site.data.lang.en | jsonify }},
-    zh: {{ site.data.lang.zh | jsonify }}
-  };
-</script>
 <script src="{{ '/assets/js/language-switcher.js' | relative_url }}"></script>
