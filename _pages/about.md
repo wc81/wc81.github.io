@@ -1,5 +1,5 @@
 ---
-permalink: /about/
+permalink: /
 title: "个人简介"
 lang: zh
 author_profile: true
