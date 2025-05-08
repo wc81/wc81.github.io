@@ -41,3 +41,11 @@
       document.getElementById('langToggle').addEventListener('click', toggleLanguage);
     });
   })();
+
+// 在lang-switcher.js中添加
+window.addEventListener('error', (e) => {
+    if (e.message.includes('__LANG_DATA__')) {
+      console.error('语言数据加载失败，请检查_data/lang目录');
+      document.getElementById('langToggle').style.display = 'none';
+    }
+  });
