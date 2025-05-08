@@ -11,4 +11,4 @@ language_btn: "中文"
 # en.yml
 about:
   title: "About Me"
-  content: "I'm a developer specializing in..."
+  intro: "He is currently the chief engineer of the National Engineering Research Center for Big Data System Software at Tsinghua University and the director of the Big Data Research Institute of Tsinghua Sichuan Energy Internet Research Institute. He has served as a principal researcher at IBM China Research Institute, a senior manager of the Data Management Technology Research Department, and the head of IBM Global Analytics Cloud Research Strategy. His research areas include database systems, data governance, data circulation, and industrial big data. He has participated in the preparation of a number of national and provincial planning documents, including the 14th Five-Year Plan for Big Data, Data Element X, and Trusted Data Space, and has led and participated in a number of digital transformation projects for leading enterprises."
