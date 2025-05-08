@@ -9,22 +9,29 @@
 
 main:
   - title: "论文"
+    i18n_key: paper_title
     url: /paper/
 
   - title: "专利"
+    i18n_key: patent_title
     url: /patent/
 
   - title: "专著"
+    i18n_key: book_title
     url: /book/
 
   - title: "标准"
+    i18n_key: standard_title
     url: /standard/
 
   - title: "奖项"
+    i18n_key: awards_title
     url: /awards/
         
   - title: "社会任职"
+    i18n_key: social_service_title
     url: /social-service/
 
   - title: "政策研究"
+    i18n_key: others_title
     url: /others/

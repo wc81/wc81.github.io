@@ -1,6 +1,23 @@
 document.addEventListener('DOMContentLoaded', function() {
     const toggleButton = document.getElementById('language-toggle');
     let currentLang = localStorage.getItem('lang') || 'zh';
+
+    function setLanguage(lang) {
+      // 更新页面内容中的动态文本
+      document.querySelectorAll('[data-i18n]').forEach(el => {
+        const key = el.getAttribute('data-i18n');
+        el.textContent = siteData[lang][key];  // 自动更新标题
+      });
+    
+      // 更新浏览器标签页标题
+      const pageTitle = document.querySelector('title[data-i18n]');
+      if (pageTitle) {
+        const titleKey = pageTitle.getAttribute('data-i18n');
+        document.title = siteData[lang][titleKey];
+      }
+    
+      // 其他原有逻辑（切换 Markdown 内容显示等）...
+    }
   
     // 初始化页面语言
     function setLanguage(lang) {
