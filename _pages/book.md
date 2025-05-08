@@ -1,6 +1,7 @@
 ---
 permalink: /book/
 title: "专著"
+lang: zh
 author_profile: true
 ---
 

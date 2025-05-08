@@ -1,9 +1,9 @@
 ---
 permalink: /paper/
 title: "论文"
+lang: zh
 author_profile: true
 ---
-
 
 1. Rongzhao Chen, Xiangpeng Hu, Xiangdong Huang, **Chen Wang**, Shaoxu Song, and Jianmin Wang. Migration-Free Elastic Storage of Time Series in Apache IoTDB. Proceedings of the VLDB Endowment (PVLDB). 2025.
 2. Xu Zhang, Peng Wang, **Chen Wang**, Zhe Xu, Xiaohua Nie, and Wei Wang. Global Feature Enhancing and Fusion Framework for Strain Gauge Status Recognition. In Companion Proceedings of the ACM Web Conference (WWW Companion). 2025.

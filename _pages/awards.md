@@ -1,6 +1,7 @@
 ---
 permalink: /awards/
 title: "奖项"
+lang: zh
 author_profile: true
 ---
 

@@ -1,7 +1,7 @@
 ---
-layout: archive
-title: "社会任职"
 permalink: /social-service/
+title: "社会任职"
+lang: zh
 author_profile: true
 ---
 
