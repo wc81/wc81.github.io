@@ -1,19 +1,10 @@
 en:
-  about_title: "About Me"
-  awards_title: "Awards"
-  book_title: "Books"
-  others_title: "Policy Research"
-  paper_title: "Papers"
-  patent_title: "Patents"
-  social_service_title: "Social Services"
-  standard_title: "Standards"
-
+  home: "Home"
+  about: "About"
+  blog: "Blog"
+  # 添加其他需要翻译的文本
 zh:
-  about_title: "个人简介"
-  awards_title: "奖项"
-  book_title: "专著"
-  others_title: "政策研究"
-  paper_title: "论文"
-  patent_title: "专利"
-  social_service_title: "社会任职"
-  standard_title: "标准"
+  home: "首页"
+  about: "关于"
+  blog: "博客"
+  # 对应中文文本

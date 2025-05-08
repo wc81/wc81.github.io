@@ -1,7 +1,6 @@
 ---
 permalink: /social-service/
 title: "社会任职"
-i18n_key: social_service_title
 lang: zh
 author_profile: true
 ---

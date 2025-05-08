@@ -1,7 +1,6 @@
 ---
 permalink: /paper/
 title: "论文"
-i18n_key: paper_title
 lang: zh
 author_profile: true
 ---

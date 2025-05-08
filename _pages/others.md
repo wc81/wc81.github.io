@@ -1,7 +1,6 @@
 ---
 permalink: /others/
 title: "政策研究"
-i18n_key: others_title
 lang: zh
 author_profile: true
 ---

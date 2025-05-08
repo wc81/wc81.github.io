@@ -1,7 +1,6 @@
 ---
 permalink: /book/
 title: "专著"
-i18n_key: book_title
 lang: zh
 author_profile: true
 ---

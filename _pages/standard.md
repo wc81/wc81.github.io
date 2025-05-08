@@ -1,7 +1,6 @@
 ---
 permalink: /standard/
 title: "标准"
-i18n_key: standard_title
 lang: zh
 author_profile: true
 ---

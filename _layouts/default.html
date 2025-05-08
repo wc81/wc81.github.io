@@ -14,16 +14,12 @@ layout: compress
   </head>
 
   <body>
+
+    
+
     {% include browser-upgrade.html %}
     {% include masthead.html %}
 
-
-    <main>
-      <h1 id="page-title" data-i18n="{{ page.i18n_key }}">
-        {{ site.data.lang[page.lang][page.i18n_key] }}
-      </h1>
-      {{ content }}
-    </main>
     {{ content }}
 
     <div class="page__footer">
@@ -37,13 +33,5 @@ layout: compress
 
   </body>
 </html>
-
-<script>
-  // 将 Jekyll 的多语言数据暴露给 JavaScript
-  window.siteData = {
-    en: {{ site.data.lang.en | jsonify }},
-    zh: {{ site.data.lang.zh | jsonify }}
-  };
-</script>
 
 <script src="{{ '/assets/js/language-switcher.js' | relative_url }}"></script>
