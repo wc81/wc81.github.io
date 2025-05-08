@@ -154,12 +154,14 @@ analytics:
   google:
     tracking_id          :
 
+lang: en
 
 # Reading Files
 include:
   - .htaccess
   - _pages
   - files
+  - _data/lang
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"

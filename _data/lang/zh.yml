@@ -1,0 +1,14 @@
+# _data/lang/zh.yml
+header:
+  papers: "论文"
+  patents: "专利"
+  projects: "项目"
+  about: "关于"
+home:
+  title: "你好，我是王晨"
+  intro: "充满热情的开发者..."
+language_btn: "English"
+# zh.yml 
+about:
+  title: "关于我"
+  content: "我是一名专注于...的开发者"

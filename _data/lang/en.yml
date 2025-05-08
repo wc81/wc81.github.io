@@ -1,0 +1,14 @@
+# _data/lang/en.yml
+header:
+  papers: "Publications"
+  patents: "Patents"
+  projects: "Projects"
+  about: "About"
+home:
+  title: "Hello, I'm Wang Chen"
+  intro: "A passionate developer..."
+language_btn: "中文"
+# en.yml
+about:
+  title: "About Me"
+  content: "I'm a developer specializing in..."
