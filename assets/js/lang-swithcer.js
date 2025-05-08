@@ -1,7 +1,7 @@
 (function() {
     // 初始化设置
     const STORAGE_KEY = 'wc81_lang';
-    const DEFAULT_LANG = 'en';
+    const DEFAULT_LANG = 'zh';
     
     // 获取当前语言
     function getCurrentLang() {

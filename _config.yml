@@ -154,7 +154,7 @@ analytics:
   google:
     tracking_id          :
 
-lang: en
+lang: zh
 
 # Reading Files
 include:
