@@ -11,12 +11,16 @@ layout: compress
     {% include head/custom.html %}
   </head>
 
+  <nav>
+    <a href="/">{{ site.data.lang[page.lang].home }}</a>
+    <a href="/about/">{{ site.data.lang[page.lang].about }}</a>
+    <a href="/posts/">{{ site.data.lang[page.lang].blog }}</a>
+  </nav>
+
   <body>
 
     <!-- 语言切换按钮 -->
-    <button id="langToggle" class="lang-btn">
-      {{ site.data.lang[site.lang].language_btn }}
-    </button>
+    <button id="language-toggle" class="language-toggle">EN</button>
 
     {% include browser-upgrade.html %}
     {% include masthead.html %}
@@ -32,14 +36,7 @@ layout: compress
 
     {% include scripts.html %}
 
-    <script>
-      // 注入语言数据到全局变量
-      window.__LANG_DATA__ = {
-        en: {{ site.data.lang.en | jsonify }},
-        zh: {{ site.data.lang.zh | jsonify }}
-      };
-    </script>
-    <script src="{{ '/assets/js/lang-switcher.js' | relative_url }}"></script>
-
   </body>
 </html>
+
+<script src="{{ '/assets/js/language-switcher.js' | relative_url }}"></script>

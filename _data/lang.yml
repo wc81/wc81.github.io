@@ -1,0 +1,10 @@
+en:
+  home: "Home"
+  about: "About"
+  blog: "Blog"
+  # 添加其他需要翻译的文本
+zh:
+  home: "首页"
+  about: "关于"
+  blog: "博客"
+  # 对应中文文本
