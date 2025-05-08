@@ -8,23 +8,23 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
-  - title: data-translate="paper"
+  - title: <h1 data-translate="paper"></h1>
     url: /paper/
 
-  - title: data-translate="patent"
+  - title: patent
     url: /patent/
 
-  - title: data-translate="book"
+  - title: book
     url: /book/
 
-  - title: data-translate="standard"
+  - title: standard
     url: /standard/
 
-  - title: data-translate="awards"
+  - title: awards
     url: /awards/
         
-  - title: data-translate="social-service"
+  - title: social-service
     url: /social-service/
 
-  - title: data-translate="others"
+  - title: others
     url: /others/
