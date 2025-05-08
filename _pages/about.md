@@ -1,6 +1,10 @@
 ---
 permalink: /
+<<<<<<< HEAD
 title: ""
+=======
+title: "个人简介"
+>>>>>>> parent of 3859961 (尝试增加双语切换)
 author_profile: true
 redirect_from: 
   - /about/
