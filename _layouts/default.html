@@ -9,18 +9,13 @@ layout: compress
   <head>
     {% include head.html %}
     {% include head/custom.html %}
+    <!-- 语言切换按钮 -->
+    <button id="language-toggle" class="language-toggle">EN</button>
   </head>
-
-  <nav>
-    <a href="/">{{ site.data.lang[page.lang].home }}</a>
-    <a href="/about/">{{ site.data.lang[page.lang].about }}</a>
-    <a href="/posts/">{{ site.data.lang[page.lang].blog }}</a>
-  </nav>
 
   <body>
 
-    <!-- 语言切换按钮 -->
-    <button id="language-toggle" class="language-toggle">EN</button>
+    
 
     {% include browser-upgrade.html %}
     {% include masthead.html %}
