@@ -1,10 +1,17 @@
 ---
 permalink: /paper/
-title: "论文"
+title: ""
 lang: zh
 author_profile: true
 ---
 
+<div class="lang-zh">
+  <h1>论文</h1>
+</div>
+
+<div class="lang-en" style="display:none;">
+  <h1>Papers</h1>
+</div>
 1. Rongzhao Chen, Xiangpeng Hu, Xiangdong Huang, **Chen Wang**, Shaoxu Song, and Jianmin Wang. Migration-Free Elastic Storage of Time Series in Apache IoTDB. Proceedings of the VLDB Endowment (PVLDB). 2025.
 2. Xu Zhang, Peng Wang, **Chen Wang**, Zhe Xu, Xiaohua Nie, and Wei Wang. Global Feature Enhancing and Fusion Framework for Strain Gauge Status Recognition. In Companion Proceedings of the ACM Web Conference (WWW Companion). 2025.
 3. Lei Rui, Xiangdong Huang, Shaoxu Song, **Chen Wang**, Jianmin Wang, and Zhao Cao. Largest Triangle Sampling for Visualizing Time Series in Database. ACM Conference on Management of Data (SIGMOD). 2025.
@@ -61,9 +68,6 @@ author_profile: true
 54. **Chen Wang**, Qiming Tian, Xiaoyan Chen, Chun Ying. Service Differentiation for Business Process by Value Based Service Scheduling. IEEE International Conference on Web Services (ICWS). 2008.
 55. Yi Ge, **Chen Wang**, Xiaowei Shen, Honesty Young. A database scale-out solution for emerging write-intensive commercial workloads. ACM SIGOPS Operating Systems Review (SIGOPS). 2008.
 56. **Chen Wang**, Yan Qiu Chen. Improving Nearest Neighbor Classification with Simulated Gravitational Collapse. International Conference on Natural Computation. 2005.
-
-
-
 
 
 

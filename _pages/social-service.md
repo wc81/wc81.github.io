@@ -1,10 +1,17 @@
 ---
 permalink: /social-service/
-title: "社会任职"
+title: ""
 lang: zh
 author_profile: true
 ---
 
+<div class="lang-zh">
+  <h1>社会任职</h1>
+</div>
+
+<div class="lang-en" style="display:none;">
+  <h1>Social-Services</h1>
+</div>
 * 国家产业基础专家委委员
 * 国家工业互联网产业发展联盟（AII）副秘书长
 * 北京工业互联网技术创新与产业发展联盟秘书长

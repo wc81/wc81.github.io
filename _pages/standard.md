@@ -1,10 +1,17 @@
 ---
 permalink: /standard/
-title: "标准"
+title: ""
 lang: zh
 author_profile: true
 ---
 
+<div class="lang-zh">
+  <h1>标准</h1>
+</div>
+
+<div class="lang-en" style="display:none;">
+  <h1>Standards</h1>
+</div>
 1. 《工业互联网企业网络安全 第4部分：数据防护要求》，计划号：20214469-T-339。
 2. 《信息技术 大数据 数据资产价值评估》，计划号：20214285-T-469。
 3. 《基于BOM的产品生命周期数据模型》，标准号：GB/T 45226-2025。
