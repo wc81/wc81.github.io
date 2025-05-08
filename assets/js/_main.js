@@ -97,3 +97,33 @@ $(document).ready(function () {
   });
 
 });
+
+document.getElementById('languageToggle').addEventListener('click', function() {
+  const currentLang = document.documentElement.lang;
+  const newLang = currentLang === 'en' ? 'zh' : 'en';
+  
+  // 更新页面文字
+  document.querySelectorAll('[data-translate]').forEach(element => {
+    const key = element.dataset.translate;
+    element.textContent = translations[newLang][key];
+  });
+
+  // 更新元数据
+  document.documentElement.lang = newLang;
+  this.textContent = translations[newLang].language;
+  
+  // 保存偏好
+  localStorage.setItem('preferredLang', newLang);
+});
+
+document.addEventListener('DOMContentLoaded', function() {
+  const savedLang = localStorage.getItem('preferredLang') || 'en';
+  
+  document.querySelectorAll('[data-translate]').forEach(element => {
+    const key = element.dataset.translate;
+    element.textContent = GLOBAL_TRANSLATIONS[savedLang][key]; // 使用全局变量
+  });
+  
+  document.documentElement.lang = savedLang;
+  document.getElementById('languageToggle').textContent = GLOBAL_TRANSLATIONS[savedLang].language;
+});
