@@ -19,12 +19,3 @@
 <link rel="stylesheet" href="{{ base_path }}/assets/css/main.css">
 
 <meta http-equiv="cleartype" content="on">
-
-<button id="languageToggle" class="lang-btn">
-  {{ site.data.translations[site.lang].language }}
-</button>
-
-<script>
-  // 将翻译数据注入全局作用域
-  window.GLOBAL_TRANSLATIONS = {{ site.data.translations | jsonify }};
-</script>

@@ -8,23 +8,23 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
-  - title: <h1 data-translate="paper"></h1>
+  - title: "论文"
     url: /paper/
 
-  - title: patent
+  - title: "专利"
     url: /patent/
 
-  - title: book
+  - title: "专著"
     url: /book/
 
-  - title: standard
+  - title: "标准"
     url: /standard/
 
-  - title: awards
+  - title: "奖项"
     url: /awards/
         
-  - title: social-service
+  - title: "社会任职"
     url: /social-service/
 
-  - title: others
+  - title: "政策研究"
     url: /others/
