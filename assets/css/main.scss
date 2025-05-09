@@ -45,7 +45,7 @@
 // 语言切换按钮
 .language-toggle {
   position: fixed;
-  top: 1.5rem;
+  top: 0rem;
   right: 2rem;
   z-index: 1000;
   padding: 0.5rem 1rem;
@@ -67,11 +67,3 @@
     padding: 0.4rem 0.8rem;
   }
 }
-
-// /* 确保语言切换不影响布局 */
-// .masthead__menu-item a span {
-//   display: none;
-// }
-// .masthead__menu-item a .lang-zh {
-//   display: inline; /* 默认显示中文 */
-// }
