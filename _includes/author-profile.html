@@ -15,7 +15,9 @@
   </div>
 
   <div class="author__content">
-    <h3 class="author__name">{{ author.name }}</h3>
+    <!-- <h3 class="author__name">{{ author.name }}</h3> -->
+    <span class="lang-zh"><h3 class="author__name">{{ author.name }}</h3></span>
+    <span class="lang-en" style="display:none;"><h3 class="author__name">{{ author.name }}</h3></span>
     {% if author.pronouns %}<p class="author__pronouns">{{ author.pronouns }}</p>{% endif %}
     {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
   </div>
@@ -36,7 +38,15 @@
         </li>
       {% endif %}
       {% if author.employer %}
-        <li class="author__desktop"><i class="fas fa-fw fa-building-columns icon-pad-right" aria-hidden="true"></i>{{ author.employer }}</li>
+        <!-- 原方案
+        <li class="author__desktop"><i class="fas fa-fw fa-building-columns icon-pad-right" aria-hidden="true"></i>{{ author.employer }}</li> -->
+
+        <!-- 修改方案 -->
+        <li class="author__desktop">
+          <i class="fas fa-fw fa-building-columns icon-pad-right" aria-hidden="true"></i>
+            <span class="lang-zh">{{ author.employer }}</span>
+            <span class="lang-en" style="display:none;">{{ author.employer_en }}</span>
+        </li>
       {% endif %}
       {% if author.uri %}
         <li><a href="{{ author.uri }}"><i class="fas fa-fw fa-link icon-pad-right" aria-hidden="true"></i>{{ site.data.ui-text[site.locale].website_label | default: "Website" }}</a></li>

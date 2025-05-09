@@ -11,6 +11,14 @@ document.addEventListener('DOMContentLoaded', function() {
       document.querySelectorAll(`.masthead__menu-item a .lang-${lang}`).forEach(el => {
         el.style.display = 'inline';
       });
+
+      // 切换作者栏文本
+      document.querySelectorAll('.author__desktop a span').forEach(el => {
+        el.style.display = 'none';
+      });
+      document.querySelectorAll(`.author__desktop a .lang-${lang}`).forEach(el => {
+        el.style.display = 'inline';
+      });
   
       // 切换 Markdown 内容显示
       document.querySelectorAll('.lang-en, .lang-zh').forEach(el => {
