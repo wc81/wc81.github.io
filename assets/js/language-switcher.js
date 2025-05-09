@@ -4,6 +4,14 @@ document.addEventListener('DOMContentLoaded', function() {
   
     // 初始化页面语言
     function setLanguage(lang) {
+      // 切换导航栏文本
+      document.querySelectorAll('.masthead__menu-item a span').forEach(el => {
+        el.style.display = 'none';
+      });
+      document.querySelectorAll(`.masthead__menu-item a .lang-${lang}`).forEach(el => {
+        el.style.display = 'inline';
+      });
+      
       // 切换文本内容
       document.querySelectorAll('[data-i18n]').forEach(el => {
         const key = el.getAttribute('data-i18n');
@@ -17,7 +25,7 @@ document.addEventListener('DOMContentLoaded', function() {
       document.querySelectorAll(`.lang-${lang}`).forEach(el => {
         el.style.display = 'block';
       });
-  
+
       // 更新按钮文本
       toggleButton.textContent = lang === 'zh' ? 'EN' : '中';
       localStorage.setItem('lang', lang);

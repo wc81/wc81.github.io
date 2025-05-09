@@ -13,12 +13,24 @@
             {% else %}
               {% assign domain = base_path %}
             {% endif %}
+            <!-- 原始方案 -->
+            <!-- <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li> -->
+
+            <!-- 修改方案一
             <div class="lang-zh">
               <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
             </div>
             <div class="lang-en" style="display:none;">
               <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.entitle }}</a></li>
-            </div>
+            </div> -->
+
+            <!-- 修改方案二 -->
+            <li class="masthead__menu-item">
+              <a href="{{ domain }}{{ link.url }}">
+                <span class="lang-zh">{{ link.title }}</span>
+                <span class="lang-en">{{ link.entitle }}</span>
+              </a>
+            </li>
           {% endfor %}
           <li id="theme-toggle" class="masthead__menu-item persist tail">
             <a><i id="theme-icon" class="fa-solid fa-sun" aria-hidden="true" title="toggle theme"></i></a>
