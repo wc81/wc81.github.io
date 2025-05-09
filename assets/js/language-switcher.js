@@ -21,7 +21,7 @@ document.addEventListener('DOMContentLoaded', function() {
       });
 
       // 更新按钮文本
-      toggleButton.textContent = lang === 'zh' ? 'English' : '中文';
+      toggleButton.textContent = lang === 'zh' ? 'EN' : '中';
       localStorage.setItem('lang', lang);
     }
   
