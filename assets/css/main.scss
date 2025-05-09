@@ -68,10 +68,10 @@
   }
 }
 
-/* 确保语言切换不影响布局 */
-.masthead__menu-item a span {
-  display: none;
-}
-.masthead__menu-item a .lang-zh {
-  display: inline; /* 默认显示中文 */
-}
+// /* 确保语言切换不影响布局 */
+// .masthead__menu-item a span {
+//   display: none;
+// }
+// .masthead__menu-item a .lang-zh {
+//   display: inline; /* 默认显示中文 */
+// }
