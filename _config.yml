@@ -10,6 +10,7 @@
 locale                   : "en-US"
 site_theme               : "default"
 title                    : "首页"
+title_en                 : "Homepage"
 title_separator          : "-"
 name                     : &name "王晨"
 description              : &description "personal description"
