@@ -9,29 +9,29 @@
 
 main:
   - title: "论文"
-    entitle: "Papers"
+    title_en: "Papers"
     url: /paper/
     
   - title: "专利"
-    entitle: "Patents"
+    title_en: "Patents"
     url: /patent/
 
   - title: "专著"
-    entitle: "Books"
+    title_en: "Books"
     url: /book/
 
   - title: "标准"
-    entitle: "Standards"
+    title_en: "Standards"
     url: /standard/
 
   - title: "奖项"
-    entitle: "Awards"
+    title_en: "Awards"
     url: /awards/
         
   - title: "社会任职"
-    entitle: "Social Services"
+    title_en: "Social Services"
     url: /social-service/
 
   - title: "政策研究"
-    entitle: "Policy Researches"
+    title_en: "Policy Researches"
     url: /others/
