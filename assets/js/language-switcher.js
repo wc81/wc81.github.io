@@ -11,12 +11,6 @@ document.addEventListener('DOMContentLoaded', function() {
       document.querySelectorAll(`.masthead__menu-item a .lang-${lang}`).forEach(el => {
         el.style.display = 'inline';
       });
-      
-      // 切换文本内容
-      document.querySelectorAll('[data-i18n]').forEach(el => {
-        const key = el.getAttribute('data-i18n');
-        el.textContent = siteData[lang][key];
-      });
   
       // 切换 Markdown 内容显示
       document.querySelectorAll('.lang-en, .lang-zh').forEach(el => {

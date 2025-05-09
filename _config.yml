@@ -28,6 +28,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : # "Short biography for the left-hand sidebar"
   location         : "北京"
+  location_en         : "Beijing"
   employer         : "清华大学"
   uri              : # URL
   email            : "wang_chen@tsinghua.edu.cn" 
