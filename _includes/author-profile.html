@@ -17,7 +17,7 @@
   <div class="author__content">
     <!-- <h3 class="author__name">{{ author.name }}</h3> -->
     <span class="lang-zh"><h3 class="author__name">{{ author.name }}</h3></span>
-    <span class="lang-en" style="display:none;"><h3 class="author__name">{{ author.name }}</h3></span>
+    <span class="lang-en" style="display:none;"><h3 class="author__name">{{ author.name_en }}</h3></span>
     {% if author.pronouns %}<p class="author__pronouns">{{ author.pronouns }}</p>{% endif %}
     {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
   </div>
@@ -32,9 +32,10 @@
 
         <!-- 修改方案 -->
         <li class="author__desktop">
-          <i class="fa-solid fa-location-dot icon-pad-right" aria-hidden="true"></i>
+          <i class="fa-solid fa-location-dot icon-pad-right" aria-hidden="true">
             <span class="lang-zh">{{ author.location }}</span>
             <span class="lang-en" style="display:none;">{{ author.location_en }}</span>
+          </i>
         </li>
       {% endif %}
       {% if author.employer %}
@@ -43,9 +44,10 @@
 
         <!-- 修改方案 -->
         <li class="author__desktop">
-          <i class="fas fa-fw fa-building-columns icon-pad-right" aria-hidden="true"></i>
+          <i class="fas fa-fw fa-building-columns icon-pad-right" aria-hidden="true">
             <span class="lang-zh">{{ author.employer }}</span>
             <span class="lang-en" style="display:none;">{{ author.employer_en }}</span>
+          </i>
         </li>
       {% endif %}
       {% if author.uri %}
