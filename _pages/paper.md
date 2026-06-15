@@ -13,7 +13,7 @@ author_profile: true
   <h1>Papers</h1>
 </div>
 
-1. Song Wang, **Chen Wang**, Jianchun Wang, Xin Yu, Zhe Xu, Shengguo Li, Linjie Zhang, Yuchao Guo, and Jun Ding. A comprehensive CFD lifecycle dataset for marine vessel hydrodynamics. Scientific Data. 2026.
+1. Song Wang, **Chen Wang**, Jianchun Wang, Xin Yu, Zhe Xu, Shengguo Li, Linjie Zhang, Yuchao Guo, and Jun Ding. A comprehensive CFD lifecycle dataset for marine vessel hydrodynamics. Scientific Data (Nature Portfolio). 2026.
 2. Qiang Liu, Zhiqiang Zhan, Jingjing Wang, **Chen Wang**, and S. Joe Qin. Toward Lightweight Dynamic Convolutional Neural Network Modeling for Soft Sensors. IEEE Transactions on Cybernetics (TCYB). 2026.
 3. Yuxuan Wang, Haixu Wu, Jiaxiang Dong, Yong Liu, **Chen Wang**, Mingsheng Long, Jianmin Wang. Deep Time Series Models: A Comprehensive Survey and Benchmark. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI). 2026.
 4. Yunzhong Qiu, Zhiyao Cen, Zhongyi Pei, **Chen Wang**, Jianmin Wang. Adapt Data to Model: Adaptive Transformation Optimization for Domain-Shared Time Series Foundation Models. International Conference on Learning Representations (ICLR). 2026.
