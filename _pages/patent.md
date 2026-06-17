@@ -32,45 +32,43 @@ author_profile: true
 18. 宋韶旭, 刘志成, 王建民,  **王晨**. 一种错误数据容忍的虚警过滤方法和装置. 201910374187.4
 19. 王建民, 康荣, **王晨**, 黄向东. 时序数据的编码方法及装置. 201910721876.8
 20. 王建民, 黄向东, 乔嘉林, 田原, 侯昊男, **王晨**. 单元和多元时序数据的混合处理方法、装置及计算机设备. 202211155031.5
-21. 王建民, 黄向东, 徐毅, 江天, 龙明盛, 刘英博, **王晨**. Method and Device For Storing Time Series Data with Adaptive Code Length. WO2019/114753A1
-22. 王建民, 黄向东, 曹高飞, 乔嘉林, 江天, 芮蕾, **王晨**, 龙明盛. Join Query Method and System for Multiple Time Sequences Under Columnar Storage. WO2019/114754A1
-23. 王建民, 黄向东, 乔嘉林, 康荣, 刘英博, **王晨**, 龙明盛. Column-Based Storage Method and System for Timing Data and Query Method and System for Timing Data. WO2019/120240A1
-24. 王建民, 黄向东, 张金瑞, 刘昆, 曹高飞, 赵馨逸, **王晨**, 龙明盛. Capacity Expansion Method and System Based on Dual-Layer List Structure. WO2019/149002A1
-25. 王建民, 黄向东, 乔嘉林, **王晨**, 龙明盛. Method and Device for Storing Time Series Data with Adaptive Length Encoding. US11101818B2
-26. 王建民, 黄向东, **王晨**, 张金瑞, 孙家广. Capacity Expansion Method and Capacity Expansion System Based on Dual-Level List Structure. US11467754B2
-27. 用于垃圾消息检测的方法和设备. CN101938711B
-28. 垃圾短信发送号码实时检测系统及方法. CN101686444B
-29. 流程执行方法、流程执行系统及其配置设备和方法. CN101640667B
-30. 目录服务器中的修改条目名称操作方法和相应设备. CN101295306B
-31. 信息轮询方法、装置及其系统. CN101378544B
-32. 判断垃圾信息发送者的方法及装置. CN102857921B
-33. Modifying Entry Names in Directory Server. US8015195B2
-34. Method and Apparatus for Applying Database Partition in a Multi-tenancy Scenario. US8200705B2
-35. Detecting Spam Short Messages Based on Sending Characteristics. US8539579B2
-36. Determination of a spammer through social network characterization. US8880604B2
-37. Scheduling and execution of tasks. US20150199216A1
-38. Method and Apparatus for Generating Schema of Non-Relational Database. US20140095549A1
-39. Realizing graph processing based on the mapreduce architecture. US20140215477A1
-40. Determination of a spammer through social network characterization. US20130007127A1
-41. Method and apparatus for processing network visualization. US20110289207A1
-42. Scheduling and execution of tasks. US20150199216A1
-43. Determining location of a user of a mobile device. US9374800B2
-44. Generating a schema of a not-only-structured-query-language database. US10055429B2
-45. 用于生成非关系数据库的模式的方法和设备. CN105095237A
-46. 检测数据序列中的异常子序列的方法和设备. CN104809134A
-47. 用于调度、执行的装置和方法以及分布式系统. CN104778079A
-48. 用于管理时间序列数据库的方法和装置. CN104516894A
-49. 用于对采样数据进行总结的方法和装置. CN104216887A
-50. 基于MapReduce架构实现图处理的方法和装置. CN103970604A
-51. 管理时间序列数据库的方法和装置. CN103853752A
-52. 用于处理多个传感器的时序数据的方法和装置. CN103794006A
-53. 用于生成非关系数据库的模式的方法和设备. CN103714086A
-54. 用于处理时序数据的方法和装置. CN103577456A
-55. 用于基于反馈来生成训练模型的方法和装置. CN103577831A
-56. 网络可视化处理方法及设备. CN102208989A
-57. 用于垃圾短信检测的方法和设备. CN101938714A
-58. 回叫欺诈检测方法和装置. CN101854613A
-59. 多租户场景中应用数据库分区的方法和装置. CN101639835
-60. Method and Device for Storing Time Series Data with Adaptive Length Encoding. US11101818B2
-61. Capacity Expansion Method and Capacity Expansion System Based on Dual-Level List Structure. US11467754B2
-62. Columnar Storage and Query Method and System for Time Series Data. US11704328B2
+21. 王建民, 黄向东, **王晨**, 乔嘉林, 江天, 龙明盛, 孙家广. Columnar Storage and Query Method and System for Time Series Data. US11704328B2
+22. 王建民, 黄向东, **王晨**, 张金瑞, 孙家广. Capacity Expansion Method and Capacity Expansion System Based on Dual-Level List Structure. US11467754B2
+23. 王建民, 黄向东, 乔嘉林, **王晨**, 龙明盛. Method and Device for Storing Time Series Data with Adaptive Length Encoding. US11101818B2
+24. 王建民, 黄向东, 徐毅, 江天, 龙明盛, 刘英博, **王晨**. Method and Device For Storing Time Series Data with Adaptive Code Length. WO2019/114753A1
+25. 王建民, 黄向东, 曹高飞, 乔嘉林, 江天, 芮蕾, **王晨**, 龙明盛. Join Query Method and System for Multiple Time Sequences Under Columnar Storage. WO2019/114754A1
+26. 王建民, 黄向东, 乔嘉林, 康荣, 刘英博, **王晨**, 龙明盛. Column-Based Storage Method and System for Timing Data and Query Method and System for Timing Data. WO2019/120240A1
+27. 王建民, 黄向东, 张金瑞, 刘昆, 曹高飞, 赵馨逸, **王晨**, 龙明盛. Capacity Expansion Method and System Based on Dual-Layer List Structure. WO2019/149002A1
+28. 用于垃圾消息检测的方法和设备. CN101938711B
+29. 垃圾短信发送号码实时检测系统及方法. CN101686444B
+30. 流程执行方法、流程执行系统及其配置设备和方法. CN101640667B
+31. 目录服务器中的修改条目名称操作方法和相应设备. CN101295306B
+32. 信息轮询方法、装置及其系统. CN101378544B
+33. 判断垃圾信息发送者的方法及装置. CN102857921B
+34. Modifying Entry Names in Directory Server. US8015195B2
+35. Method and Apparatus for Applying Database Partition in a Multi-tenancy Scenario. US8200705B2
+36. Detecting Spam Short Messages Based on Sending Characteristics. US8539579B2
+37. Determination of a spammer through social network characterization. US8880604B2
+38. Scheduling and execution of tasks. US20150199216A1
+39. Method and Apparatus for Generating Schema of Non-Relational Database. US20140095549A1
+40. Realizing graph processing based on the mapreduce architecture. US20140215477A1
+41. Determination of a spammer through social network characterization. US20130007127A1
+42. Method and apparatus for processing network visualization. US20110289207A1
+43. Scheduling and execution of tasks. US20150199216A1
+44. Determining location of a user of a mobile device. US9374800B2
+45. Generating a schema of a not-only-structured-query-language database. US10055429B2
+46. 用于生成非关系数据库的模式的方法和设备. CN105095237A
+47. 检测数据序列中的异常子序列的方法和设备. CN104809134A
+48. 用于调度、执行的装置和方法以及分布式系统. CN104778079A
+49. 用于管理时间序列数据库的方法和装置. CN104516894A
+50. 用于对采样数据进行总结的方法和装置. CN104216887A
+51. 基于MapReduce架构实现图处理的方法和装置. CN103970604A
+52. 管理时间序列数据库的方法和装置. CN103853752A
+53. 用于处理多个传感器的时序数据的方法和装置. CN103794006A
+54. 用于生成非关系数据库的模式的方法和设备. CN103714086A
+55. 用于处理时序数据的方法和装置. CN103577456A
+56. 用于基于反馈来生成训练模型的方法和装置. CN103577831A
+57. 网络可视化处理方法及设备. CN102208989A
+58. 用于垃圾短信检测的方法和设备. CN101938714A
+59. 回叫欺诈检测方法和装置. CN101854613A
+60. 多租户场景中应用数据库分区的方法和装置. CN101639835
