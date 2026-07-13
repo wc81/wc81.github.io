@@ -12,6 +12,7 @@ author_profile: true
 <div class="lang-en" style="display:none;">
   <h1>Social-Services</h1>
 </div>
+* Committee Member, ISO/IEC JTC 1 / SC42(AI) WG2(Data)
 * 国家产业基础专家委委员
 * 国家工业互联网产业发展联盟（AII）副秘书长
 * 北京工业互联网技术创新与产业发展联盟秘书长
